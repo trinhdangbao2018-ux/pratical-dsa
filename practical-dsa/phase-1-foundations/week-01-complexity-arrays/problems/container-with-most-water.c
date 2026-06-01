@@ -4,11 +4,6 @@
 
 //Only 1 while loop -> O(n)
 
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <assert.h>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
